@@ -37,7 +37,7 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 **PROGRAM**
 
-Developed by: RegisterNumber:
+Developed by: RegisterNumber: 212224220050
 ```
 module EXP10(clk, sin, q);
 input clk;
